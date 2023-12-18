@@ -28,9 +28,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning Fullstack Development in GoIT
 - :rocket: Always ready to collaborate on Open Sourse projects
-- :man_technologist: Bachelor's degree in Software Engineering at VNTU
+- :man_technologist: Master's degree in Software Engineering at VNTU
 - :dart: Life Hack: "Life isn't about finding yourself. Life is about creating yourself." 
 
 <h2 align="left">:heart: Let's get connected:</h2>
